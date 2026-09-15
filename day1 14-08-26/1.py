@@ -1,0 +1,4 @@
+#WAP TO CREATE A PROGRAM TO PRINT "HELLO ARJUN HOW ARE YOU"
+
+
+print("Hello Arjun How are you")

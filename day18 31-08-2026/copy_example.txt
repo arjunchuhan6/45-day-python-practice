@@ -1,0 +1,10 @@
+This is an example text file.
+This is additional text added to the file.
+This is additional text added to the file.
+This is additional text added to the file.
+This is additional text added to the file.
+This is additional text added to the file.
+This is additional text added to the file.
+This is additional text added to the file program 4.
+This is additional text added to the file with 'with' statement.
+I am Arjun Rajput

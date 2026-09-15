@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming Tips",
+    "content": "1. Use list comprehensions for efficient loops\n2. Use f-strings for string formatting\n3. Always use virtual environments\n4. Follow PEP 8 style guide\n5. Write unit tests for your code",
+    "category": "Programming",
+    "created_at": "2026-08-26T23:25:42.365845",
+    "updated_at": "2026-08-26T23:25:42.365876"
+  },
+  {
+    "id": 2,
+    "title": "Weekly Shopping List",
+    "content": "Milk - 2 liters\nBread - 1 loaf\nEggs - 1 dozen\nChicken - 500g\nRice - 2kg\nOil - 1 liter\nVegetables (tomato, onion, carrot)\nFruit (apple, banana, orange)",
+    "category": "Shopping",
+    "created_at": "2026-08-28T23:25:42.365879",
+    "updated_at": "2026-08-28T23:25:42.365881"
+  },
+  {
+    "id": 4,
+    "title": "Book Recommendations",
+    "content": "1. The Pragmatic Programmer - Dave Thomas\n2. Clean Code - Robert C. Martin\n3. Design Patterns - Gang of Four\n4. Atomic Habits - James Clear\n5. Deep Work - Cal Newport",
+    "category": "Books",
+    "created_at": "2026-08-29T23:25:42.365887",
+    "updated_at": "2026-08-29T23:25:42.365889"
+  },
+  {
+    "id": 5,
+    "title": "JavaScript ES6 Features",
+    "content": "Arrow Functions: () => {}\nTemplate Literals: `Hello ${name}`\nDestructuring: const {x, y} = obj\nSpread Operator: ...array\nPromises and async/await\nClasses and inheritance\nModules: import/export",
+    "category": "Programming",
+    "created_at": "2026-08-27T23:25:42.365891",
+    "updated_at": "2026-08-27T23:25:42.365893"
+  },
+  {
+    "id": 6,
+    "title": "Birthday Reminders",
+    "content": "Mom - March 15\nDad - July 22\nBest Friend - November 8\nSister - June 10\nCousin - September 5",
+    "category": "Personal",
+    "created_at": "2026-08-21T23:25:42.365895",
+    "updated_at": "2026-08-21T23:25:42.365897"
+  },
+  {
+    "id": 7,
+    "title": "Website Design Ideas",
+    "content": "Color Scheme: Blue and white with accent green\nLayout: Modern, minimalist\nFont: Sans-serif (Roboto or Open Sans)\nPages: Home, About, Services, Contact, Blog\nFeatures: Responsive design, dark mode, search functionality\nTechnology Stack: React, Tailwind CSS, Node.js backend",
+    "category": "Projects",
+    "created_at": "2026-08-30T23:25:42.365899",
+    "updated_at": "2026-08-30T23:25:42.365900"
+  },
+  {
+    "id": 8,
+    "title": "Morning Routine",
+    "content": "6:00 AM - Wake up\n6:15 AM - Drink water and stretch\n6:30 AM - Meditation (10 mins)\n6:45 AM - Shower\n7:00 AM - Breakfast\n7:30 AM - Read news/emails\n8:00 AM - Start work/study",
+    "category": "Personal",
+    "created_at": "2026-08-25T23:25:42.365903",
+    "updated_at": "2026-08-25T23:25:42.365904"
+  },
+  {
+    "id": 9,
+    "title": "Database Optimization Tips",
+    "content": "1. Add appropriate indexes on frequently queried columns\n2. Use EXPLAIN to analyze query performance\n3. Normalize database schema\n4. Implement caching strategies\n5. Batch similar queries together\n6. Use connection pooling\n7. Monitor slow queries regularly",
+    "category": "Programming",
+    "created_at": "2026-08-23T23:25:42.365906",
+    "updated_at": "2026-08-23T23:25:42.365908"
+  },
+  {
+    "id": 10,
+    "title": "Travel Bucket List",
+    "content": "- Japan (Tokyo, Kyoto, Mount Fuji)\n- Switzerland (Alps, Zurich)\n- Italy (Rome, Venice, Florence)\n- France (Paris, Provence)\n- Australia (Sydney, Great Barrier Reef)\n- New Zealand (Adventure capital)\n- Iceland (Northern Lights)\n- Canada (Rocky Mountains)",
+    "category": "Travel",
+    "created_at": "2026-08-22T23:25:42.365910",
+    "updated_at": "2026-08-22T23:25:42.365912"
+  }
+]

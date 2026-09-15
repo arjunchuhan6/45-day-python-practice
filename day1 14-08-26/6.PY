@@ -1,0 +1,4 @@
+#WAP FOR CREATE MUTLIPLE OF TWO NUMBER
+a = 5
+b = 10
+print("MULTIPLE:", a * b)

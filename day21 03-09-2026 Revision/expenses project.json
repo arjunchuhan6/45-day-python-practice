@@ -1,0 +1,127 @@
+[
+    {
+        "amount": 25.5,
+        "description": "Lunch",
+        "category": "Food"
+    },
+    {
+        "amount": 20,
+        "description": "Expense item",
+        "category": "Other"
+    },
+    {
+        "amount": 45,
+        "description": "Groceries",
+        "category": "Food"
+    },
+    {
+        "amount": 15,
+        "description": "Bus fare",
+        "category": "Transport"
+    },
+    {
+        "amount": 30,
+        "description": "Internet bill",
+        "category": "Bills"
+    },
+    {
+        "amount": 12.75,
+        "description": "Breakfast",
+        "category": "Food"
+    },
+    {
+        "amount": 8.5,
+        "description": "Coffee",
+        "category": "Food"
+    },
+    {
+        "amount": 22,
+        "description": "Taxi ride",
+        "category": "Transport"
+    },
+    {
+        "amount": 60,
+        "description": "Fuel",
+        "category": "Transport"
+    },
+    {
+        "amount": 40,
+        "description": "Electricity bill",
+        "category": "Bills"
+    },
+    {
+        "amount": 18,
+        "description": "Mobile recharge",
+        "category": "Bills"
+    },
+    {
+        "amount": 35.99,
+        "description": "Book",
+        "category": "Shopping"
+    },
+    {
+        "amount": 75,
+        "description": "Clothes",
+        "category": "Shopping"
+    },
+    {
+        "amount": 14.25,
+        "description": "Medicine",
+        "category": "Health"
+    },
+    {
+        "amount": 50,
+        "description": "Doctor visit",
+        "category": "Health"
+    },
+    {
+        "amount": 10,
+        "description": "Snacks",
+        "category": "Food"
+    },
+    {
+        "amount": 28,
+        "description": "Dinner",
+        "category": "Food"
+    },
+    {
+        "amount": 5,
+        "description": "Parking",
+        "category": "Transport"
+    },
+    {
+        "amount": 25,
+        "description": "Water bill",
+        "category": "Bills"
+    },
+    {
+        "amount": 19.99,
+        "description": "Streaming subscription",
+        "category": "Entertainment"
+    },
+    {
+        "amount": 32,
+        "description": "Movie tickets",
+        "category": "Entertainment"
+    },
+    {
+        "amount": 45.5,
+        "description": "Shoes",
+        "category": "Shopping"
+    },
+    {
+        "amount": 9.75,
+        "description": "Toiletries",
+        "category": "Personal"
+    },
+    {
+        "amount": 16,
+        "description": "Laundry",
+        "category": "Personal"
+    },
+    {
+        "amount": 11.5,
+        "description": "Office supplies",
+        "category": "Other"
+    }
+]

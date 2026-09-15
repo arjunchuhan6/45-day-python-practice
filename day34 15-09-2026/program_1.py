@@ -1,0 +1,3 @@
+#git & github
+#initilize git 
+
