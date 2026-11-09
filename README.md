@@ -114,6 +114,22 @@ py -m pip freeze > requirements.txt
 git pull
 ```
 
+### Run the Day 41 tests
+
+Day 41 includes `unittest` and FastAPI examples. Because the exercise files
+use `program_*.py` names, pass the test files explicitly from the repository
+root:
+
+```powershell
+py -m pytest "Day41 03-10-2026/program_1.py" "Day41 03-10-2026/program_2.py" "Day41 03-10-2026/program_3.py"
+```
+
+To run only the POST endpoint example:
+
+```powershell
+py -m pytest "Day41 03-10-2026/program_3.py"
+```
+
 ## Recommended Daily Workflow
 
 1. Read the day's topic before writing code.
